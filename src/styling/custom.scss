@@ -1,0 +1,32 @@
+@import '~bootstrap/scss/bootstrap.scss';
+
+$primary: rgb(231, 78, 190);
+
+h1 {
+    margin-top: 1em;
+}
+
+.send {
+    background-color: rgb(219, 153, 255);
+    font-family: 'Volkhov', serif;
+    margin-top: 3em;
+    margin-bottom: 7em;
+};
+
+.form-control {
+    
+    margin-top: 1.5em;
+};
+.email {
+     max-width: 40%;
+}
+
+.name {
+     max-width: 30%;
+}
+
+label{
+     margin-top: 3em;
+    font-family: 'Volkhov', serif;
+    color: #3a0c6a;
+}

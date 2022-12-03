@@ -1,0 +1,55 @@
+.contain {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: fit-content;
+  margin-top: 1em;
+}
+
+.item {
+  position: relative;
+  left: 3em;
+}
+
+.downloadIcon {
+  max-width: 64%;
+  position: relative;
+  margin-left: -9em;
+}
+
+.tool {
+  position: absolute;
+  cursor: pointer;
+  font-weight: bold;
+  left: 66%;
+}
+
+.tool .tooltext {
+  width: 6em;
+  visibility: hidden;
+  background-color: #b743f17e;
+  color: #fff;
+  border-radius: 6px;
+  position: absolute;
+}
+
+.tool:hover .tooltext {
+  visibility: visible;
+}
+
+.containin {
+  justify-content: center;
+  width: 90%;
+  height: 30em;
+  display: flex;
+  position: relative;
+  margin-top: 3em;
+  margin-bottom: 7em;
+}
+
+.responsive {
+  position: absolute;
+  top: 0;
+  width: 99%;
+  height: 96%;
+}

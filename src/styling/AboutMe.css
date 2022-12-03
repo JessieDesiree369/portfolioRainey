@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Volkhov&display=swap");
+
+.about {
+  font-family: "Volkhov", serif;
+  color: #3a0c6a;
+}
+
+.profile {
+  border-radius: 50%;
+  max-width: 12em;
+  margin-bottom: 4em;
+  margin-top: 3em;
+}
+
+.about h2 {
+  margin-bottom: 2em;
+  color: #8034a6d8;
+}
+
+.prompt {
+  font-size: 21px;
+  margin-bottom: 4em;
+  padding: 0 4em;
+}
+
+@media only screen and (min-width: 1000px) {
+  .profile {
+    max-width: 16em;
+  }
+}
