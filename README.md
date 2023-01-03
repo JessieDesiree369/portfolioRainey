@@ -13,9 +13,6 @@ This is my portfolio website, on it you can find:
 - a Portfolio page showcasing a few projects from class
 <img width="465" alt="Screen Shot" src=".\src\Assets\projects.png">
 
-- a Resume page where you can view and download my current resume
-<img width="465" alt="Screen Shot" src=".\src\Assets\resume.png">
-
 - and a Contact page where you can send me a message should you like to reach out to me
 <img width="465" alt="Screen Shot" src=".\src\Assets\form.png">
 
